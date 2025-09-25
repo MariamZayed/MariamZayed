@@ -1,39 +1,54 @@
-### Hi there 👋
+# Mariam Mohamad Zayed  
 
-<!--
-**MariamZayed/MariamZayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ mariamzayed91@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/mariamzayed91) | [GitHub](https://github.com/mariamzayed)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience  
 
-# Hello, I'm Mariam Zayed! 👋
+**Computer Science Teaching Assistant – MET**  
+*Mar 2025 – Present*  
+- Delivered tutorials and labs for 3 undergraduate courses.  
+- Supervised 2 graduation projects (technical + professional guidance).  
+- Mentored students on career orientation, soft skills, and job readiness.  
 
-[Write a brief introduction about yourself and your background.]
+**Freelance PHP Developer**  
+*Oct 2023 – May 2024*  
+- Built dynamic web applications with robust database designs.  
+- Performed testing, debugging, and API integration.  
 
-## Projects
+---
 
-- [Project 1](https://github.com/your-username/project1): [Short description of the project.]
-- [Project 2](https://github.com/your-username/project2): [Short description of the project.]
-- [Project 3](https://github.com/your-username/project3): [Short description of the project.]
+## 🎓 Education  
 
-## Skills
+**ITI – 9-Month Diploma (Open Source Track)**  
+*Oct 2022 – Jul 2023 | Mansoura Branch*  
 
-- Programming languages: [List of programming languages you are proficient in.]
-- Frameworks: [List of frameworks you are experienced with.]
-- Tools and Technologies: [List of tools and technologies you have expertise in.]
-- Version Control: [Version control systems you are familiar with.]
+**B.Sc. Computer and Information Science – Mansoura University**  
+*2018 – 2022 | GPA: 3.34 (Very Good)*  
+- Graduation Project: *Inside Out – BCI-based Emotion Recognition & Chatting System* (Grade: Excellent).  
 
-## Contact Me
+---
 
-- LinkedIn: [Your LinkedIn profile URL]
-- Email: [Your email address]
+## 🛠️ Technical Skills  
 
+- **Languages:** PHP, Python, JavaScript, C, C++, SQL  
+- **Frameworks:** Laravel, Django, Node.js, REST APIs  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, GitHub, Linux, Docker  
+- **Data Analysis:** Pandas, Matplotlib, Seaborn  
+
+---
+
+## 🏆 Achievements  
+
+- Ericsson Together Apart Hackathon – AI & ML in Medical Field (*2021*)  
+- TIEC She Hackathon – Machine Learning in Healthcare (*2021*)  
+- EGYHackathon (*2020*) | Hult Prize (*2019*)  
+
+---
+
+## 📜 Certification  
+
+- **Docker Training Course** – KodeKloud (*Oct 2023*)  
