@@ -41,14 +41,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-- Ericsson Together Apart Hackathon – AI & ML in Medical Field (*2021*)  
-- TIEC She Hackathon – Machine Learning in Healthcare (*2021*)  
-- EGYHackathon (*2020*) | Hult Prize (*2019*)  
-
----
-
 ## 📜 Certification  
 
 - **Docker Training Course** – KodeKloud (*Oct 2023*)  
